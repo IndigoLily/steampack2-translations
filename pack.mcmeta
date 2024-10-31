@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Localizes, renames, and adds missing names, for modpack cohesion",
+        "pack_format": 15
+    }
+}
