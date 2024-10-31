@@ -1,0 +1,14 @@
+{
+  "advancement.create.display_link.desc": "Use a Display Link to visualize information",
+  "advancement.create.millstone.desc": "Use a Millstone to pulverize materials",
+  "block.create.analog_lever": "Analogue Lever",
+  "create.ponder.analog_lever.header": "Controlling signals using the Analogue Lever",
+  "create.ponder.analog_lever.text_1": "Analogue Levers make for a compact and precise source of redstone power",
+  "create.ponder.analog_lever.text_2": "Right-click to increase its analogue power output",
+  "create.ponder.chain_gearshift.text_5": "Using analogue signals, the ratio can be adjusted more precisely between 1 and 2",
+  "create.ponder.display_link.text_1": "Display Links can be used to visualize dynamic information",
+  "create.ponder.speedometer.text_3": "Comparators can emit analogue Restone Signals relative to the Speedometer's measurements",
+  "create.ponder.stressometer.text_3": "Comparators can emit analogue Restone Signals relative to the Stressometer's measurements",
+  "create.schematic.tool.rotate.description.0": "Rotates the Schematic around its centre.",
+  "create.tooltip.analogStrength": "Analogue Strength: %1$s/15"
+}

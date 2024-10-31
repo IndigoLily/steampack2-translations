@@ -1,0 +1,5 @@
+{
+  "spell.rogues.throw.description": "Throw your weapon at the target, dealing {damage} damage and reducing their armour by {armor_reduction} for {effect_duration} sec.",
+  "effect.rogues.shatter": "Shattered Armour",
+  "effect.rogues.shatter.description": "Reduces armour"
+}

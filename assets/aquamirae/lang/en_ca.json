@@ -1,0 +1,21 @@
+{
+  "advancements.aquamirae.terrible_armor.descr": "Craft and equip a full set of Terrible Armour",
+  "advancements.aquamirae.terrible_armor.title": "Terrible Armour",
+  "advancements.aquamirae.three_bolt_armor.descr": "Craft and equip a full set of Three-Bolt Armour",
+  "advancements.aquamirae.abyssal_armor.descr": "Craft and equip a full set of Abyssal Armour",
+  "advancements.aquamirae.abyssal_armor.title": "Abyssal Armour",
+  "class.aquamirae.sea_wolf_armor": "Sea Wolf Armour",
+  "ability.aquamirae.abyssal_armor_half": "Half-Set Bonus > +25% Armour > +4 Armour Toughness",
+  "ability.aquamirae.whisper_of_the_abyss": "Perforation > Reduces the target's armour by 10% for {#1}. Stacks up to 5 times.",
+  "effect.aquamirae.abyss_blindness.description": "Blinding Abyss armour effect. Decreases movement speed.",
+  "effect.aquamirae.abyss_blindness.desc": "Blinding Abyss armour effect. Decreases movement speed.",
+  "effect.aquamirae.armor_decrease.description": "Whisper of the Abyss effect. Reduces armour value.",
+  "effect.aquamirae.armor_decrease.desc": "Whisper of the Abyss effect. Reduces armour value.",
+  "effect.aquamirae.crystallization.description": "Blinding Abyss armour effect. You deal 80% less damage and die when the effect ends.",
+  "effect.aquamirae.crystallization.desc": "Blinding Abyss armour effect. You deal 80% less damage and die when the effect ends.",
+  "effect.aquamirae.strong_armor": "Strong Armour",
+  "effect.aquamirae.strong_armor.description": "Blinding Abyss armour effect. Increases armour value.",
+  "effect.aquamirae.strong_armor.desc": "Blinding Abyss armour effect. Increases armour value.",
+  "effect.aquamirae.swim_speed.description": "Terrible armour effect. Increases underwater movement speed.",
+  "effect.aquamirae.swim_speed.desc": "Terrible armour effect. Increases underwater movement speed."
+}

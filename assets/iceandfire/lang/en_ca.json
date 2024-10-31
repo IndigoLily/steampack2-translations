@@ -1,0 +1,20 @@
+{
+  "item.iceandfire.dragonarmor_iron": "Iron Dragon Armour",
+  "item.iceandfire.dragonarmor_gold": "Gold Dragon Armour",
+  "item.iceandfire.dragonarmor_diamond": "Diamond Dragon Armour",
+  "item.iceandfire.dragonarmor_silver": "Silver Dragon Armour",
+  "item.iceandfire.dragonarmor_copper": "Copper Dragon Armour",
+  "item.iceandfire.dragonarmor_dragon_steel_fire": "Fire Dragon Steel Dragon Armour",
+  "item.iceandfire.dragonarmor_dragon_steel_ice": "Ice Dragon Steel Dragon Armour",
+  "item.iceandfire.dragonarmor_dragon_steel_lightning": "Lightning Dragon Steel Dragon Armour",
+  "item.iceandfire.iron_hippogryph_armor": "Iron Hippogryph Armour",
+  "item.iceandfire.gold_hippogryph_armor": "Gold Hippogryph Armour",
+  "item.iceandfire.diamond_hippogryph_armor": "Diamond Hippogryph Armour",
+  "item.iceandfire.netherite_hippogryph_armor": "Netherite Hippogryph Armour",
+  "advancements.iceandfire.dragonarmor.description": "Obtain dragon armour",
+  "modifier.sweater_song.desc": "\"If you want to destroy my sweater...\"§r\\nTargets wearing armour have a 30% chance of their armour being removed from a critical strike.",
+  "item.iceandfire.dragonarmor_netherite": "Netherite Dragon Armour",
+  "iceandfire.category.armors": "Armours",
+  "iceandfire.armors.dragonSteelBaseArmor": "Base Armour",
+  "iceandfire.armors.dragonSteelBaseArmorToughness": "Base Armour Toughness"
+}
